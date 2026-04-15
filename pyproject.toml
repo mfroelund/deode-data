@@ -1,0 +1,7 @@
+[project]
+  name = "deode-data"
+  version = "0.1.0"
+  description = "Package to store configs, namelists, json-schemas etc. relevant to run a DEODE configuration in tactus."
+  readme = "README.md"
+  requires-python = ">=3.10"
+  dependencies = []
